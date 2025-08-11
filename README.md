@@ -1,7 +1,7 @@
 # Ministry of Finance, Nepal
 
 This is the demo website of the Ministry of Finance, Government of Nepal.
-Devloped by Wisdom Technologies Pvt. Ltd. for the clear picture of role played by accebility in development, and deployment of the website for the mass.
+Devloped for the clear picture of role played by accebility in development, and deployment of the website for the mass.
 
 ## Accessibility
 
@@ -29,10 +29,6 @@ This website is designed to be accessible to all users, including those with dis
 - The website is not compatible with Internet Explorer versions older than 11.
 - The website may not work properly on older versions of Safari.
 
-### Report an issue
-
-If you find any issues while using the website, please report it to us at [info@mof.gov.np](mailto:info@mof.gov.np). We will try to resolve the issue as soon as possible.
-
 ## Development
 
 This website is built using Next.js, a React-based framework for building server-rendered, statically generated, and performance optimized web applications.
@@ -57,7 +53,3 @@ This website is built using Next.js, a React-based framework for building server
 - Prettier
 - Husky
 - Lint Staged
-
-### Installation
-
-To install the project, run the following command in your terminal:
